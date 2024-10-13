@@ -63,7 +63,7 @@ You’ll need Node.js and MongoDB installed on your machine.
 
 2. Navigate to the project directory:
    ```bash
-   cd sugar-cosmetics-
+   cd Sugar-cosmetics-
    ```
 
 3. Install the dependencies:
