@@ -12,7 +12,7 @@ Sugar Cosmetics is a cruelty-free makeup brand launched in 2015, offering high-p
 ## Project Details
 
 - **Project build date:** 5th Oct - 14th Oct (Construct Week)
-- **GitHub Repository:** [Source Code on GitHub](https://github.com/mihirdas77/Sugar-Cosmetic-)
+- **GitHub Repository:** [Source Code on GitHub](https://github.com/mihirdas77/Sugar-Cosmetics-)
 - **Hosted Website (Vercel):** [Live Demo](https://sugar-cosmetics-clone-sand.vercel.app/)
 
 ## Tech Stack
@@ -63,7 +63,7 @@ You’ll need Node.js and MongoDB installed on your machine.
 
 2. Navigate to the project directory:
    ```bash
-   cd sugar-cosmetics-clone
+   cd sugar-cosmetics-
    ```
 
 3. Install the dependencies:
