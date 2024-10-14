@@ -13,7 +13,7 @@ Sugar Cosmetics is a cruelty-free makeup brand launched in 2015, offering high-p
 
 - **Project build date:** 5th Oct - 14th Oct (Construct Week)
 - **GitHub Repository:** [Source Code on GitHub](https://github.com/mihirdas77/Sugar-Cosmetics-)
-- **Hosted Website (Vercel):** [Live Demo](https://sugar-cosmetics-clone-sand.vercel.app/)
+- **Hosted Website (Vercel):** [Live Demo](https://sugar-clone.vercel.app/)
 
 ## Tech Stack
 
