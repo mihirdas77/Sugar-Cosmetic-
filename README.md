@@ -29,22 +29,6 @@ Sugar Cosmetics is a cruelty-free makeup brand launched in 2015, offering high-p
 - **User Authentication:** User sign-in/sign-up system.
 - **Checkout:** Simulated checkout process for placing orders.
 
-## Screenshots
-
-### Home Page
-![Home Page](https://miro.medium.com/max/1400/1*Tmf2OG61QbwoMycMjz0kzQ.png)
-
-### Product Listing
-![Product Listing](https://miro.medium.com/max/1400/1*HwzbA8qMmBwWZ1kZLCvukg.png)
-
-### Product Details
-![Product Details](https://miro.medium.com/max/1400/1*PfWNFHzzIXNfUv2DV7ZKVA.png)
-
-### Cart Page
-![Cart Page](https://miro.medium.com/max/1400/1*BTq1ZjKtB_8c_RAWSenlVw.png)
-
-### Checkout
-![Checkout](https://miro.medium.com/max/1400/1*hSSJqdOsXDIapGBzG3TDIg.png)
 
 ## Getting Started
 
